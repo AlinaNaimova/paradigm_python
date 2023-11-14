@@ -1,5 +1,7 @@
 import time
 
+# ДЗ: исправить ошибки подсчета времени, добавить комментарии, описать какую парадигму использовали.
+
 class Stopwatch:
     def __init__(self):
         self.start_time = None
